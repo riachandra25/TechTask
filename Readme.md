@@ -29,9 +29,8 @@ SOLUTION APPROACH
 
 As the test needs to be completed in limited time and for image downloading this open source library is already available and support multiple feature, so I have used this. 
 
-## License
+If given some more time, I would integrate more unit tests and UI tests in the app.
 
-Copyright (c) 2020 Ria Chandra.
 
 
 
